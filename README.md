@@ -4,3 +4,4 @@
 💙 I’m looking forward to collaborate on JavaScript projects.<br>
 ⚡ Fun fact: I'm a polyglot! I speak Portuguese, English, Spanish and French.
 
+
