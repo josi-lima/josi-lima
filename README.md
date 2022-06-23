@@ -1,4 +1,4 @@
-<strong><h1>🅷🅴🅻🅻🅾 I'm Josi. It's awesome to have you here!</h1></strong> ![github-01](https://user-images.githubusercontent.com/108018406/175384704-4974f3e8-ee18-4460-bd5d-ee5153b2c782.gif)
+<strong><h2>🅷🅴🅻🅻🅾 I'm Josi. It's awesome to have you here!</h2></strong> 
 
 
 🌱 I’m currently learning HTML5, CSS3 and JavaScript.<br>
