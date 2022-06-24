@@ -1,5 +1,5 @@
-<strong><h2>🅷🅴🅻🅻🅾 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5300&lines=I'm+Josi.+Glad+to+see+you+here!)](https://git.io/typing-svg)</h2></strong> 
+<strong><h1>🅷🅴🅻🅻🅾 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5300&lines=I'm+Josi.+Glad+to+see+you+here!)](https://git.io/typing-svg)</h1></strong> 
 <h3>
 🌱 I’m currently learning HTML5, CSS3 and JavaScript.<br>
 💙 I’m looking forward to collaborate on JavaScript projects.<br>
