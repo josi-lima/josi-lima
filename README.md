@@ -1,6 +1,4 @@
-<strong><h2>🅷🅴🅻🅻🅾 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Josi.+It's+awesome+to+have+you+here!)](https://git.io/typing-svg)
-
-I'm Josi. It's awesome to have you here!</h2></strong> 
+<strong><h2>🅷🅴🅻🅻🅾 I'm Josi. It's awesome to have you here!</h2></strong> 
 
 <h3>
 🌱 I’m currently learning HTML5, CSS3 and JavaScript.<br>
