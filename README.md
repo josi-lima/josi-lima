@@ -7,8 +7,9 @@
 <h3>
 🌱 I’m currently learning HTML5, CSS3 and JavaScript.<br>
 💙 I’m looking forward to collaborate on JavaScript projects.<br>
+💪 I’m also available for freelancing!
 ⚡ Fun fact: I'm a polyglot! I speak Portuguese, English, Spanish and French!<br>
-I’m available for freelancing!
+
 </h3>
 <br>
 <kbd>
