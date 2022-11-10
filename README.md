@@ -6,11 +6,9 @@
 <h3>
 🌱 My ongoing projects focus on HTML5, CSS3, Bootstrap, JavaScript and C#.<br><br>
     
-💙 I’m looking forward to collaborate on JavaScript projects.<br>
-  
 💪 I’m also available for freelancing. Let's work together! <br>
   
-⚡ Fun fact: I'm a polyglot! I speak Portuguese, English, Spanish and French!
+💙 Fun fact: I'm a polyglot! I speak Portuguese, English, Spanish and French!
 
 </h3>
 <br>
