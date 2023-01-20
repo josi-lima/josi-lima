@@ -1,8 +1,6 @@
 
 <div align="center">
     
-<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
-    
 <strong><h2>🅷🅴🅻🅻🅾 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5300&lines=I'm+Josi.+Glad+to+see+you+here!)](https://git.io/typing-svg)</h2></strong>
     
@@ -53,7 +51,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="1040" height="65" />
+<img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="900" height="65" />
 
 
 
