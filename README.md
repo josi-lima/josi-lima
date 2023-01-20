@@ -9,16 +9,16 @@
 <h2 align="center">A passionate frontend developer from Brazil!👋</h2> 
 
 
-<img align="right" width="375" src="https://user-images.githubusercontent.com/108018406/175384674-02d698b7-7a68-40e7-8536-393400accee2.gif">
+<img align="right" width="370" src="https://user-images.githubusercontent.com/108018406/175384674-02d698b7-7a68-40e7-8536-393400accee2.gif">
 
 
 <p align="left">
 
-- 🔭 My ongoing projects focus on: **JavaScript, C#, HTML5, CSS3 and Bootstrap.**
+- 🔭 My ongoing projects focus on: **JavaScript and C#.**
 
-- 💙 Fun fact: I'm a polyglot! **I speak Portuguese, English, Spanish and French**!
+- 💙 Fun fact: **I speak Portuguese, English, Spanish and French**!
 
-- 🌱 I’m currently a full-time programming student at: <a href="https://www.betrybe.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="35" width="35" /></a>
+- 🌱 I’m currently a full-time programming student at: <a href="https://www.betrybe.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="32" width="32" /></a>
 
 - 👨‍💻 You can check my portfolio at [Josie's Web Portfolio](https://josi-lima.github.io/web-portfolio/).
 
@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josi-lima&show_icons=true&locale=en&layout=compact" alt="josi-lima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josi-lima&show_icons=true&locale=en" alt="josi-lima" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josi-lima&show_icons=true&locale=en" alt="josi-lima" /></p>
 
 </div>
 
