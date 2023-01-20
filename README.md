@@ -5,7 +5,7 @@
     
 </div>
 
-<h2 align="center"><span style="color:blue">A passionate developer from Brazil!👋</span></h2> 
+<h2 align="center">A passionate developer from Brazil!👋</h2>
 
 <br>
 
@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josi-lima&show_icons=true&locale=en&layout=compact" alt="josi-lima" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact" alt="josi-lima" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=josi-lima&show_icons=true&locale=en" alt="josi-lima" />
+<img src="https://github-readme-stats.vercel.app/api?username=josi-lima&count_private=true&show_icons=true&locale=en" alt="josi-lima" />
 
 </div>
 
