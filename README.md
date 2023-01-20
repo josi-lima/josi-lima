@@ -44,10 +44,10 @@
 <br>
 
 <div align="center">
+    
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="josi-lima" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact" alt="josi-lima" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=josi-lima&count_private=true&show_icons=true&locale=en" alt="josi-lima" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="josi-lima" />
 
 </div>
 
