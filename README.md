@@ -5,7 +5,7 @@
     
 </div>
 
-<h2 align="center">A passionate developer from Brazil!👋</h2> 
+<h2 align="center"><span style="color:blue">A passionate developer from Brazil!👋</span></h2> 
 
 <br>
 
