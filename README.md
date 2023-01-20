@@ -5,7 +5,8 @@
     
 </div>
 
-<h2 align="center">A passionate developer from Brazil!👋</h2>
+<h2 align="center">A passionate developer from Brazil!<img width="42" height="50" src="https://user-images.githubusercontent.com/108018406/213756980-fd30ab56-1dfd-4c03-a54e-cae76137ff1b.gif"></h2> 
+
 
 <br>
 
