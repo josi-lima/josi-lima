@@ -20,8 +20,10 @@
 - 💙 Fun fact: **I speak Portuguese, English, Spanish and French**!
 
 - 🌱 I’m currently a full-time programming student at: <a href="https://www.betrybe.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="31" width="31" /></a>
+    
+- 💻 I'm pursuing a degree in Computer Information Systems.
 
-- 💻 You can check my portfolio at [Josie's Web Portfolio](https://josi-lima.github.io/web-portfolio/).
+- 🚀 You can check my portfolio at [Josie's Web Portfolio](https://josi-lima.github.io/web-portfolio/).
 
 - 💪 I’m also available for **freelancing!** <a href="https://linkedin.com/in/https://www.linkedin.com/in/josiane-lima-coding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josiane-lima-coding/" height="27" width="36" /></a>
 
