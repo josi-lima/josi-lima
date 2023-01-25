@@ -46,7 +46,7 @@
 <div align="center">
     
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="josi-lima" />
-
+&nbsp;
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="josi-lima" />
 
 </div>
