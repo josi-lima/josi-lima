@@ -39,7 +39,8 @@
 &nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/> </a>
-&nbsp; <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/josi-lima/josi-lima/assets/108018406/bf4e8714-1b58-4479-ada4-e84ae7c919a8.png" alt="react" width="36" height="36"/> </a>
+&nbsp; <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/josi-lima/josi-lima/assets/108018406/21980c40-6632-4761-87fd-574b15f0ac1e.png" alt="react" width="38" height="38"/> </a>
 
 </p>
 
@@ -54,3 +55,4 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="900" height="65" />
+
