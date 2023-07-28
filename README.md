@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="right" width="382" height="370" src="https://user-images.githubusercontent.com/108018406/213635819-df439175-fcf7-4c6e-927d-fecaff376b47.png">
+<img align="right" width="395" height="380" src="https://user-images.githubusercontent.com/108018406/213635819-df439175-fcf7-4c6e-927d-fecaff376b47.png">
 
 <p align="left">
 
@@ -36,6 +36,7 @@
 &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> </a> 
 &nbsp; <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/108018406/222857261-aa4d9e4a-ab68-4da9-bf0f-42872a4f15b8.png" alt="jest" width="38" height="37"/> </a> 
 &nbsp; <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="38" height="38"/> </a> 
+<br>
 &nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 &nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/> </a>
