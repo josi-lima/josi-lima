@@ -34,7 +34,7 @@
 &nbsp; <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/108018406/213624720-e18290dc-1b76-4cc5-8ba6-3433d741126c.png" alt="bash" width="39" height="39"/> </a> 
 &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/> </a>
 &nbsp; <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-&nbsp; <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+&nbsp; <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="48"/> </a>
 &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a> 
 <br>
