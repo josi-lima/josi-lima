@@ -14,7 +14,7 @@
 
 <p align="left">
 
-- 🔭 My ongoing projects focus on: **JavaScript and Java**.
+- 🔭 My ongoing learning focuses on: **JavaScript and Java**.
 
 - 💙 Fun fact: **I speak Portuguese, English, Spanish and French**!
     
