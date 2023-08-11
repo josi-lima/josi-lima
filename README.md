@@ -16,7 +16,7 @@
 
 - 🔭 My ongoing learning focuses on: **JavaScript and Java**.
 
-- 💙 Fun fact: **I speak Portuguese, English, Spanish and French**!
+- 💙 Fun fact: **I speak English, Spanish, French and Portuguese**!
     
 - 💻 I'm pursuing a degree in **Computer Information Systems**.
 
