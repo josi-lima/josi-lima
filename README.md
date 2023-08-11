@@ -14,9 +14,9 @@
 
 <p align="left">
 
-- 🔭 My ongoing projects focuses on: **JavaScript and Java**.
+- 🔭 My ongoing projects focus on: **JavaScript and Java**.
 
-- 💙 Fun fact: **I speak English, Spanish, French and Portuguese**!
+- 💙 Fun fact: **I speak fluent English, Spanish, French and Portuguese**!
     
 - 💻 I'm pursuing a degree in **Computer Information Systems**.
 
