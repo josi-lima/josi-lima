@@ -14,17 +14,17 @@
 
 <p align="left">
 
-- 🔭 My ongoing projects focus on: **JavaScript and Java**.
+- 🔭 My ongoing learning focus on: **React and TypeScript**.
 
 - 💙 Fun fact: **I speak fluent English, Spanish and French**!
-    
-- 💻 I'm pursuing a degree in **Computer Information Systems**.
 
-- 🌱 I'm also a full-time programming student at: <a href="https://www.betrybe.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="31" width="31" /></a>
+- 🌱 I work as a front-end developer at: <a href="https://www.venturus.org.br/.com/" target="_blank"><img align="center" src="https://github.com/josi-lima/josi-lima/assets/108018406/8138700a-1a48-479d-aace-fb2779aeedf3.png" height="31" width="31" /></a>
+    
+- 💻 I'm also pursuing a degree in **Computer Information Systems**.
     
 - 🚀 Check out my portfolio at [Josie's Web Portfolio](https://josi-lima.github.io/web-portfolio/)!
 
-- 💪 I'm currently available for **freelancing!** <a href="https://www.linkedin.com/in/josiane-lima-coding/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josiane-lima-coding/" height="27" width="36" /></a>
+- 💪 Feel free to connect with me on <a href="https://www.linkedin.com/in/josiane-lima-coding/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josiane-lima-coding/" height="27" width="36" /></a>
 
 <h2 align="left">&nbsp;Languages and Tools (so far):</h2>
 
