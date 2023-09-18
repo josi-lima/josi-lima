@@ -18,7 +18,7 @@
 
 - 💙 Fun fact: **I speak fluent English, Spanish and French**!
 
-- 🌱 I work as a front-end developer at: <a href="https://www.venturus.org.br/.com/" target="_blank"><img align="center" src="https://github.com/josi-lima/josi-lima/assets/108018406/8138700a-1a48-479d-aace-fb2779aeedf3.png" height="31" width="31" /></a>
+- 🌱 I work as a front-end developer at: [Venturus](https://www.venturus.org.br/)!
     
 - 💻 I'm also pursuing a degree in **Computer Information Systems**.
     
