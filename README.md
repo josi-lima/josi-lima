@@ -18,11 +18,11 @@
 
 - 💙 Fun fact: **I speak fluent English, Spanish and French**!
 
-- 🌱 I work as a front-end developer at: [Venturus](https://www.venturus.org.br/)!
+- 🌱 I work as a front-end developer at: **[Venturus](https://www.venturus.org.br/)**!
     
-- 💻 I'm also pursuing a degree in **Computer Information Systems**.
+- 💻 I'm pursuing a post-degree in **Software Engineering**.
     
-- 🚀 Check out my portfolio at [Josie's Web Portfolio](https://josi-lima.github.io/web-portfolio/)!
+- 🚀 Check out my portfolio at **[Josie's Web Portfolio](https://josi-lima.github.io/web-portfolio/)**!
 
 - 💪 Feel free to connect with me on <a href="https://www.linkedin.com/in/josiane-lima-coding/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josiane-lima-coding/" height="27" width="36" /></a>
 
