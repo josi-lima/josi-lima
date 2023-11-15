@@ -14,7 +14,7 @@
 
 <p align="left">
 
-- 🔭 My ongoing learning focus on: **React and TypeScript**.
+- 🔭 My ongoing learning focuses on: **React and TypeScript**.
 
 - 💙 Fun fact: **I speak fluent English, Spanish and French**!
 
