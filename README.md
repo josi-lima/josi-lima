@@ -18,7 +18,7 @@
 
 - 💙 Fun fact: **I speak fluent English, Spanish and French**!
 
-- 🌱 I work as a front-end developer at: **[Venturus](https://www.venturus.org.br/)**!
+- 🌱 I work as a QA Analyst at: **[Venturus](https://www.venturus.org.br/)**!
     
 - 💻 I'm pursuing a post-degree in **Software Engineering**.
     
