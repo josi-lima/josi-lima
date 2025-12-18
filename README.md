@@ -50,13 +50,5 @@
 
 <br>
 
-<div align="center">
-    
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="josi-lima" />
-&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josi-lima&count_private=true&show_icons=true&locale=en&layout=compact&theme=radical" alt="josi-lima" />
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/108018406/212565138-f24c34c5-d0e1-4337-8f08-1b18412c8d1e.png" width="900" height="65" />
 
